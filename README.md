@@ -6,9 +6,9 @@ This software is for research and educational purposes only. The outputs are mod
 
 ---
 
-I'm currently freelancing and former Accounting & FinTech student at Elon University. Bloomberg Terminal is one of the most powerful financial tools in the world however people don't have access to it. I built a platform that delievers real-time financial data and analytics to everyone.
+Bloomberg Terminal is one of the most powerful financial tools in the world however people don't have access to it. I built a tool that delivers real-time financial data and analytics to everyone.
 
-Two commands. Any public company. Professional output.
+Two commands. Any public company.
 
 ```bash
 python build_dcf.py AAPL     # build + populate in one shot
@@ -160,7 +160,7 @@ The Python script works with any Excel version.
 
 During my Accounting and FinTech studies, I often had to rely on data and tools that most people don't have access to. Bloomberg Terminal offers incredible capabilities, but it also comes with a significant cost.
 
-The DCF model started as something I learned in a finance course and has evolved into a platform that provides real-time financial data and valuation tools that anyone can use.
+The DCF model started as something I learned in a finance course and has evolved into a tool that provides real-time financial data and valuation tools that anyone can use.
 
 My goal is simple: make high-quality financial analysis accessible to everyone.
 
