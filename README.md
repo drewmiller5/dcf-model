@@ -1,4 +1,4 @@
-# Professional DCF Valuation Model
+# DCF Valuation Model
 
 ## DISCLAIMER THIS IS NOT FINANCIAL ADVICE 
 
